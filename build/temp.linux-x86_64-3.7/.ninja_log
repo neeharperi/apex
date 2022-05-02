@@ -1,0 +1,16 @@
+# ninja log v5
+0	22636	1634531735290760625	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/flatten_unflatten.o	25ab78e28daf023e
+0	32040	1634531767614762096	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/multi_tensor_sgd_kernel.o	c8f95de514fdda54
+1	33116	1634531768690762145	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/multi_tensor_axpby_kernel.o	ad70c127a7d6c430
+1	33514	1634531769090762163	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/multi_tensor_lamb_stage_2.o	321884a623307eb
+1	33549	1634531769122762164	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/multi_tensor_lamb_stage_1.o	8acb83aa28f156f8
+0	33968	1634531769542762183	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/multi_tensor_scale_kernel.o	c1c54d51c1cee5ce
+3	33985	1634531769558762183	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/multi_tensor_lamb.o	cd2d4b0fac829ca3
+2	34203	1634531769778762193	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/multi_tensor_novograd.o	5058dd1396139733
+1	34496	1634531770070762207	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/multi_tensor_l2norm_kernel.o	958edc6c22ce034b
+2	34508	1634531770086762208	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/multi_tensor_adam.o	f91421c5b87ef705
+0	41171	1634531776742762511	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/amp_C_frontend.o	104b29ac3e291d3c
+0	19196	1634531796382763404	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/welford.o	e2e5d4822e5bc6e2
+0	22973	1634531800158763575	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/syncbn.o	4fa12f386be89918
+0	17115	1634531817702764374	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/layer_norm_cuda_kernel.o	6470fcc6efc0b344
+0	23843	1634531824426764679	/home/ubuntu/Workspace/Core/apex/build/temp.linux-x86_64-3.7/csrc/layer_norm_cuda.o	a64d81c4b3bddd07
